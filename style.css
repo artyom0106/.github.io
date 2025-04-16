@@ -1,0 +1,9 @@
+@charset "iso-8859-5";
+/* CSS Document */
+.background {
+background-image:url("background.png");
+background-size: cover;
+.table {
+background: linear-gradient(to top left, powderblue, pink);
+border-radius: 20px 20px;
+}
